@@ -5,8 +5,4 @@ Git tracks changes of files.
 Creating a new branch is quick.
 New
 new1
-<<<<<<< HEAD
 new2
-=======
-new2
->>>>>>> feature1
